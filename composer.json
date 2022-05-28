@@ -5,7 +5,7 @@
     "version": "0.9.1",
     "require": {
         "nelmio/alice": "~3.1",
-        "laravel/framework": "~5.3"
+        "laravel/framework": "|~7.*"
     },
     "require-dev": {
         "orchestra/testbench": "~3.3",
